@@ -17,8 +17,7 @@ class RayTrin:
         self.current_focus = ["Python", "SQL", "Data Analysis"]
         self.learning_path = "Studying Systems Analysis and Development at FGV"
         self.why_tech = (
-            "I wanted more freedom, creativity, and to build things that matter. "
-            "Programming gave me all that — and a bit more."
+            "I wanted more freedom, creativity, and to build things that matter."
         )
         self.mission = "building meaningful things with Python and data to learn, grow and help others"
 
