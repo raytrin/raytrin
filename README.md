@@ -3,7 +3,7 @@
 <p><em>Tech Student | Systems Analysis and Development at <a href="https://portal.fgv.br/">FGV </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![GitHub Rayssa](https://img.shields.io/github/followers/raytrin?label=follow&style=social)](https://github.com/raytrin)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/rayssa-trindade)
 
 ---
 
