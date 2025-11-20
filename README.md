@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rayssa Trindade! </h2>
 
-<p><em>Tech Student | Systems Analysis and Development at <a href="https://portal.fgv.br/">FGV </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Tech Student | Systems Analysis and Development at <a href="https://portal.fgv.br/">FGV </a> 
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-trindade)
